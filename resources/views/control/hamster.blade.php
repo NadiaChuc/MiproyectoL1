@@ -1,0 +1,1 @@
+este es mi hamster {{ $minombre }} {{ $miapellido  }}
